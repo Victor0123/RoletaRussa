@@ -1,4 +1,4 @@
 # RoletaRussa
 
-[X] Roleta Russa para windows
-[] Roleta Russa para Linux
+- [X] Roleta Russa para windows
+- [ ] Roleta Russa para Linux
